@@ -1,0 +1,42 @@
+.F-Name{
+    background-color: aquamarine;
+    background-size: inherit;
+}
+.L-Name{
+    background-color: darkseagreen;
+}
+.Email{
+    background-color: khaki;
+}
+.passw{
+    background-color: lightpink;
+}
+.o1{
+    background-color: crimson;
+}
+.o2{
+    background-color: cornflowerblue;
+}
+.o3{
+    background-color: chartreuse;
+}
+.o4{
+    background-color: gold;
+}
+.o5{
+    background-color: black;
+    text-decoration-color: aliceblue;
+}
+.username{
+    background-color: greenyellow;
+}
+.pass{
+    background-color: gold;
+}
+.check{
+    background-color: cornflowerblue;
+}
+.vorood{
+    text-decoration: crimson;
+    text-align: center;
+}
